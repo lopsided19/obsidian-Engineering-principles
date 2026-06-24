@@ -1,0 +1,7 @@
+# 忽略 Obsidian 的工作区状态和缓存（强烈推荐忽略）
+.obsidianworkspace.json
+.obsidiangraph.json
+.obsidianplugins
+
+# 如果你完全不想把插件和配置传上去，可以直接忽略整个配置文件夹：
+# .obsidian
